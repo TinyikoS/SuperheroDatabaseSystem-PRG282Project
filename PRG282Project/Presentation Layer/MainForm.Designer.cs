@@ -36,6 +36,7 @@
             this.btnDelete = new System.Windows.Forms.Button();
             this.btnBack = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.btnReport = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -78,7 +79,7 @@
             this.btnUpdate.BackColor = System.Drawing.Color.White;
             this.btnUpdate.Font = new System.Drawing.Font("Bahnschrift Condensed", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnUpdate.ForeColor = System.Drawing.Color.SteelBlue;
-            this.btnUpdate.Location = new System.Drawing.Point(70, 201);
+            this.btnUpdate.Location = new System.Drawing.Point(70, 171);
             this.btnUpdate.Name = "btnUpdate";
             this.btnUpdate.Size = new System.Drawing.Size(228, 48);
             this.btnUpdate.TabIndex = 3;
@@ -91,7 +92,7 @@
             this.btnDelete.BackColor = System.Drawing.Color.White;
             this.btnDelete.Font = new System.Drawing.Font("Bahnschrift Condensed", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnDelete.ForeColor = System.Drawing.Color.SteelBlue;
-            this.btnDelete.Location = new System.Drawing.Point(70, 314);
+            this.btnDelete.Location = new System.Drawing.Point(70, 259);
             this.btnDelete.Name = "btnDelete";
             this.btnDelete.Size = new System.Drawing.Size(228, 52);
             this.btnDelete.TabIndex = 4;
@@ -123,6 +124,18 @@
             this.pictureBox1.TabIndex = 6;
             this.pictureBox1.TabStop = false;
             // 
+            // btnReport
+            // 
+            this.btnReport.BackColor = System.Drawing.Color.White;
+            this.btnReport.Font = new System.Drawing.Font("Bahnschrift Condensed", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnReport.ForeColor = System.Drawing.Color.SteelBlue;
+            this.btnReport.Location = new System.Drawing.Point(70, 350);
+            this.btnReport.Name = "btnReport";
+            this.btnReport.Size = new System.Drawing.Size(228, 52);
+            this.btnReport.TabIndex = 7;
+            this.btnReport.Text = "Generate Report";
+            this.btnReport.UseVisualStyleBackColor = false;
+            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -130,6 +143,7 @@
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(905, 531);
+            this.Controls.Add(this.btnReport);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.btnBack);
             this.Controls.Add(this.btnDelete);
@@ -155,5 +169,6 @@
         private System.Windows.Forms.Button btnDelete;
         private System.Windows.Forms.Button btnBack;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Button btnReport;
     }
 }
