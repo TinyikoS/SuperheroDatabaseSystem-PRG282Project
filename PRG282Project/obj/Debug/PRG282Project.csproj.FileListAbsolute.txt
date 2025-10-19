@@ -1,0 +1,15 @@
+D:\Documents\2025\PRG282\PRG282Project\bin\Debug\PRG282Project.exe.config
+D:\Documents\2025\PRG282\PRG282Project\bin\Debug\PRG282Project.exe
+D:\Documents\2025\PRG282\PRG282Project\bin\Debug\PRG282Project.pdb
+D:\Documents\2025\PRG282\PRG282Project\obj\Debug\PRG282Project.csproj.AssemblyReference.cache
+D:\Documents\2025\PRG282\PRG282Project\obj\Debug\PRG282Project.Properties.Resources.resources
+D:\Documents\2025\PRG282\PRG282Project\obj\Debug\PRG282Project.Welcome.resources
+D:\Documents\2025\PRG282\PRG282Project\obj\Debug\PRG282Project.csproj.GenerateResource.cache
+D:\Documents\2025\PRG282\PRG282Project\obj\Debug\PRG282Project.csproj.CoreCompileInputs.cache
+D:\Documents\2025\PRG282\PRG282Project\obj\Debug\PRG282Project.exe
+D:\Documents\2025\PRG282\PRG282Project\obj\Debug\PRG282Project.pdb
+D:\Documents\2025\PRG282\PRG282Project\obj\Debug\PRG282Project.exe.config
+D:\Documents\2025\PRG282\PRG282Project\obj\Debug\PRG282Project.Presentation_Layer.InsertForm.resources
+D:\Documents\2025\PRG282\PRG282Project\obj\Debug\PRG282Project.Presentation_Layer.MainForm.resources
+D:\Documents\2025\PRG282\PRG282Project\obj\Debug\PRG282Project.Presentation_Layer.DeleteForm.resources
+D:\Documents\2025\PRG282\PRG282Project\obj\Debug\PRG282Project.Presentation_Layer.UpdateForm.resources
