@@ -13,3 +13,17 @@ D:\Documents\2025\PRG282\PRG282Project\obj\Debug\PRG282Project.Presentation_Laye
 D:\Documents\2025\PRG282\PRG282Project\obj\Debug\PRG282Project.Presentation_Layer.MainForm.resources
 D:\Documents\2025\PRG282\PRG282Project\obj\Debug\PRG282Project.Presentation_Layer.DeleteForm.resources
 D:\Documents\2025\PRG282\PRG282Project\obj\Debug\PRG282Project.Presentation_Layer.UpdateForm.resources
+C:\Users\T.Maise\OneDrive\Documentos\GitHub\SuperheroDatabaseSystem-PRG282Project\PRG282Project\bin\Debug\PRG282Project.exe.config
+C:\Users\T.Maise\OneDrive\Documentos\GitHub\SuperheroDatabaseSystem-PRG282Project\PRG282Project\bin\Debug\PRG282Project.exe
+C:\Users\T.Maise\OneDrive\Documentos\GitHub\SuperheroDatabaseSystem-PRG282Project\PRG282Project\bin\Debug\PRG282Project.pdb
+C:\Users\T.Maise\OneDrive\Documentos\GitHub\SuperheroDatabaseSystem-PRG282Project\PRG282Project\obj\Debug\PRG282Project.csproj.AssemblyReference.cache
+C:\Users\T.Maise\OneDrive\Documentos\GitHub\SuperheroDatabaseSystem-PRG282Project\PRG282Project\obj\Debug\PRG282Project.Presentation_Layer.DeleteForm.resources
+C:\Users\T.Maise\OneDrive\Documentos\GitHub\SuperheroDatabaseSystem-PRG282Project\PRG282Project\obj\Debug\PRG282Project.Presentation_Layer.InsertForm.resources
+C:\Users\T.Maise\OneDrive\Documentos\GitHub\SuperheroDatabaseSystem-PRG282Project\PRG282Project\obj\Debug\PRG282Project.Presentation_Layer.MainForm.resources
+C:\Users\T.Maise\OneDrive\Documentos\GitHub\SuperheroDatabaseSystem-PRG282Project\PRG282Project\obj\Debug\PRG282Project.Presentation_Layer.UpdateForm.resources
+C:\Users\T.Maise\OneDrive\Documentos\GitHub\SuperheroDatabaseSystem-PRG282Project\PRG282Project\obj\Debug\PRG282Project.Properties.Resources.resources
+C:\Users\T.Maise\OneDrive\Documentos\GitHub\SuperheroDatabaseSystem-PRG282Project\PRG282Project\obj\Debug\PRG282Project.Welcome.resources
+C:\Users\T.Maise\OneDrive\Documentos\GitHub\SuperheroDatabaseSystem-PRG282Project\PRG282Project\obj\Debug\PRG282Project.csproj.GenerateResource.cache
+C:\Users\T.Maise\OneDrive\Documentos\GitHub\SuperheroDatabaseSystem-PRG282Project\PRG282Project\obj\Debug\PRG282Project.csproj.CoreCompileInputs.cache
+C:\Users\T.Maise\OneDrive\Documentos\GitHub\SuperheroDatabaseSystem-PRG282Project\PRG282Project\obj\Debug\PRG282Project.exe
+C:\Users\T.Maise\OneDrive\Documentos\GitHub\SuperheroDatabaseSystem-PRG282Project\PRG282Project\obj\Debug\PRG282Project.pdb
