@@ -2,8 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\PRG282Project",
+    "\\PRG282Project\\bin",
+    "\\PRG282Project\\Logic Layer",
+    "\\PRG282Project\\obj",
     "\\PRG282Project\\Presentation Layer"
   ],
-  "SelectedNode": "\\PRG282Project\\Presentation Layer\\MainForm.cs",
+  "SelectedNode": "\\Logic Layer",
   "PreviewInSolutionExplorer": false
 }
