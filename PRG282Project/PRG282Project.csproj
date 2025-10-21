@@ -46,6 +46,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Data Layer\FileHandler.cs" />
+    <Compile Include="LogicLayer\Hero.cs" />
     <Compile Include="Presentation Layer\DeleteForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -115,9 +117,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Data Layer\" />
-    <Folder Include="LogicLayer\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

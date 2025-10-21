@@ -27,3 +27,15 @@ C:\Users\T.Maise\OneDrive\Documentos\GitHub\SuperheroDatabaseSystem-PRG282Projec
 C:\Users\T.Maise\OneDrive\Documentos\GitHub\SuperheroDatabaseSystem-PRG282Project\PRG282Project\obj\Debug\PRG282Project.csproj.CoreCompileInputs.cache
 C:\Users\T.Maise\OneDrive\Documentos\GitHub\SuperheroDatabaseSystem-PRG282Project\PRG282Project\obj\Debug\PRG282Project.exe
 C:\Users\T.Maise\OneDrive\Documentos\GitHub\SuperheroDatabaseSystem-PRG282Project\PRG282Project\obj\Debug\PRG282Project.pdb
+D:\tumel\Documents\New folder\PRG282Project\obj\Debug\PRG282Project.csproj.AssemblyReference.cache
+D:\tumel\Documents\New folder\PRG282Project\obj\Debug\PRG282Project.exe.config
+D:\tumel\Documents\New folder\PRG282Project\obj\Debug\PRG282Project.Presentation_Layer.DeleteForm.resources
+D:\tumel\Documents\New folder\PRG282Project\obj\Debug\PRG282Project.Presentation_Layer.InsertForm.resources
+D:\tumel\Documents\New folder\PRG282Project\obj\Debug\PRG282Project.Presentation_Layer.MainForm.resources
+D:\tumel\Documents\New folder\PRG282Project\obj\Debug\PRG282Project.Presentation_Layer.UpdateForm.resources
+D:\tumel\Documents\New folder\PRG282Project\obj\Debug\PRG282Project.Properties.Resources.resources
+D:\tumel\Documents\New folder\PRG282Project\obj\Debug\PRG282Project.Welcome.resources
+D:\tumel\Documents\New folder\PRG282Project\obj\Debug\PRG282Project.csproj.GenerateResource.cache
+D:\tumel\Documents\New folder\PRG282Project\obj\Debug\PRG282Project.csproj.CoreCompileInputs.cache
+D:\tumel\Documents\New folder\PRG282Project\obj\Debug\PRG282Project.exe
+D:\tumel\Documents\New folder\PRG282Project\obj\Debug\PRG282Project.pdb
