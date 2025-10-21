@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\T.Maise\\OneDrive\\Documentos\\GitHub\\SuperheroDatabaseSystem-PRG282Project\\PRG282Project\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\2025\\Git\\SuperheroDatabaseSystem-PRG282Project\\PRG282Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC2FBA3C-038D-4D83-A7EC-40687BEE37FA}|PRG282Project.csproj|c:\\users\\t.maise\\onedrive\\documentos\\github\\superherodatabasesystem-prg282project\\prg282project\\presentation layer\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC2FBA3C-038D-4D83-A7EC-40687BEE37FA}|PRG282Project.csproj|c:\\users\\user\\documents\\2025\\git\\superherodatabasesystem-prg282project\\prg282project\\presentation layer\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC2FBA3C-038D-4D83-A7EC-40687BEE37FA}|PRG282Project.csproj|solutionrelative:presentation layer\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC2FBA3C-038D-4D83-A7EC-40687BEE37FA}|PRG282Project.csproj|c:\\users\\t.maise\\onedrive\\documentos\\github\\superherodatabasesystem-prg282project\\prg282project\\presentation layer\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BC2FBA3C-038D-4D83-A7EC-40687BEE37FA}|PRG282Project.csproj|C:\\Users\\User\\Documents\\2025\\Git\\SuperheroDatabaseSystem-PRG282Project\\PRG282Project\\presentation layer\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BC2FBA3C-038D-4D83-A7EC-40687BEE37FA}|PRG282Project.csproj|solutionrelative:presentation layer\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC2FBA3C-038D-4D83-A7EC-40687BEE37FA}|PRG282Project.csproj|C:\\Users\\T.Maise\\OneDrive\\Documentos\\GitHub\\SuperheroDatabaseSystem-PRG282Project\\PRG282Project\\presentation layer\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BC2FBA3C-038D-4D83-A7EC-40687BEE37FA}|PRG282Project.csproj|C:\\Users\\User\\Documents\\2025\\Git\\SuperheroDatabaseSystem-PRG282Project\\PRG282Project\\presentation layer\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BC2FBA3C-038D-4D83-A7EC-40687BEE37FA}|PRG282Project.csproj|solutionrelative:presentation layer\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -72,11 +72,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\Users\\T.Maise\\OneDrive\\Documentos\\GitHub\\SuperheroDatabaseSystem-PRG282Project\\PRG282Project\\Presentation Layer\\MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\2025\\Git\\SuperheroDatabaseSystem-PRG282Project\\PRG282Project\\Presentation Layer\\MainForm.cs",
               "RelativeDocumentMoniker": "Presentation Layer\\MainForm.cs",
-              "ToolTip": "C:\\Users\\T.Maise\\OneDrive\\Documentos\\GitHub\\SuperheroDatabaseSystem-PRG282Project\\PRG282Project\\Presentation Layer\\MainForm.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\2025\\Git\\SuperheroDatabaseSystem-PRG282Project\\PRG282Project\\Presentation Layer\\MainForm.cs",
               "RelativeToolTip": "Presentation Layer\\MainForm.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAUwBIAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-19T01:21:07.483Z",
               "EditorCaption": ""
@@ -85,10 +85,10 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Welcome.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\T.Maise\\OneDrive\\Documentos\\GitHub\\SuperheroDatabaseSystem-PRG282Project\\PRG282Project\\Presentation Layer\\Welcome.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\2025\\Git\\SuperheroDatabaseSystem-PRG282Project\\PRG282Project\\Presentation Layer\\Welcome.cs",
               "RelativeDocumentMoniker": "Presentation Layer\\Welcome.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\2025\\Git\\SuperheroDatabaseSystem-PRG282Project\\PRG282Project\\Presentation Layer\\Welcome.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\User\\Documents\\2025\\Git\\SuperheroDatabaseSystem-PRG282Project\\PRG282Project\\Presentation Layer\\Welcome.cs [Design]",
+              "RelativeToolTip": "Presentation Layer\\Welcome.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-18T17:48:18.004Z"
             },
@@ -96,13 +96,12 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\T.Maise\\OneDrive\\Documentos\\GitHub\\SuperheroDatabaseSystem-PRG282Project\\PRG282Project\\Presentation Layer\\MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\2025\\Git\\SuperheroDatabaseSystem-PRG282Project\\PRG282Project\\Presentation Layer\\MainForm.cs",
               "RelativeDocumentMoniker": "Presentation Layer\\MainForm.cs",
               "ToolTip": "C:\\Users\\T.Maise\\OneDrive\\Documentos\\GitHub\\SuperheroDatabaseSystem-PRG282Project\\PRG282Project\\Presentation Layer\\MainForm.cs [Design]",
-              "RelativeToolTip": "Presentation Layer\\MainForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\T.Maise\\OneDrive\\Documentos\\GitHub\\SuperheroDatabaseSystem-PRG282Project\\PRG282Project\\Presentation Layer\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T17:47:00.257Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-10-18T17:47:00.257Z"
             }
           ]
         }
