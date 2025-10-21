@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using PRG282Project.Logic_Layer;
 
 namespace PRG282Project.Presentation_Layer
 {
@@ -24,6 +25,16 @@ namespace PRG282Project.Presentation_Layer
 
         private void btnDelete_Click(object sender, EventArgs e)
         {
+            //get the hero ID first from the user input
+            string heroId = txtHeroID.Text.Trim();
+
+            // make sure the user typed an ID
+            if (string.IsNullOrEmpty(heroId))
+            {
+                MessageBox.Show("Please enter a Hero ID to delete.");
+                return;
+            }
+
             //askes if user is sure about deleting a superhero
             DialogResult result = MessageBox.Show(
                 "Are you sure you want to delete this superhero?",
@@ -32,8 +43,21 @@ namespace PRG282Project.Presentation_Layer
                 MessageBoxIcon.Question);
             if (result == DialogResult.Yes)
             {
-                //proceeds to delete superhero
+                try
+                {
+                    // connect to logic layer
+                    HeroManager manager = new HeroManager();
 
+                    // delete the hero
+                    manager.DeleteHero(heroId);
+
+                    MessageBox.Show("Superhero deleted successfully!");
+                    txtHeroID.Clear();
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("Error: " + ex.Message);
+                }
             }
             else
             {

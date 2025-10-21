@@ -3,10 +3,11 @@
     "",
     "\\PRG282Project",
     "\\PRG282Project\\bin",
+    "\\PRG282Project\\Data Layer",
     "\\PRG282Project\\Logic Layer",
     "\\PRG282Project\\obj",
     "\\PRG282Project\\Presentation Layer"
   ],
-  "SelectedNode": "\\Logic Layer",
+  "SelectedNode": "\\PRG282Project\\Presentation Layer\\DeleteForm.Designer.cs",
   "PreviewInSolutionExplorer": false
 }
